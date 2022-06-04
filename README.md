@@ -19,4 +19,4 @@ The file name must begin with a **year** followed by a dash then a **month**. Th
 
 This will create a file structure based on the year and month the photo was taken. It will organize photos into a directory with the year as the directory's title then subdirectories titled after the month.
 
-I'm not sure if this is the best way to organize photos. I'm thinking about using seasons/quarters of the year instead of months to split up the photos.
+I'm not sure if this is the best way to organize photos. I'm thinking about organizing photos by seasons/quarters of the year instead of individual months.
