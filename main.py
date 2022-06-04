@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 import shutil
-'''Creates a folder structure for a year with 12 folders inside for months'''
+'''Creates a folder structure for photos based on the year and month they were taken'''
 
 
 def main():
